@@ -1,6 +1,6 @@
-# Webpack Starter
+# Proyecto ToDo
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este es el proyecto para crear una Lista de Tareas.
 
 ### Notas:
 
